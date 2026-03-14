@@ -12,10 +12,10 @@
 - 有好的建议但不确定该怎么写
 
 请直接在 GitHub 仓库中提交 Issue，我们会进行讨论。
-![](assets/image/Pasted%20image%2020251217161417.png)
+![](/assets/image/Pasted%20image%2020251217161417.png)
 
 ---
-![](assets/image/Pasted%20image%2020251217161451.png)
+![](/assets/image/Pasted%20image%2020251217161451.png)
 ### 方式二：Fork + Pull Request（推荐有时间的同学）
 如果你愿意直接参与内容编写：
 1. Fork 本仓库
