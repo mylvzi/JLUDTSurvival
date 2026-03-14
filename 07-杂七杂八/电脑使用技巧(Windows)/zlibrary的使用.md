@@ -6,7 +6,7 @@
 1. 网页版
 2. 客户端版本(在网页版有提供下载)
 3. telegram的机器人
-![alt text](../../assets/image/image2.png)
+![alt text](assets/image/image2.png)
 
 * zlibrary的访问需要挂梯子
 * zlibrary每天提供10次免费下载额度(绰绰有余了)
