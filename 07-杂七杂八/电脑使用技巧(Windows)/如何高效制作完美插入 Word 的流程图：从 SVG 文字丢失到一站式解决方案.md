@@ -31,7 +31,7 @@
 - 把 AI 生成的代码粘贴到 https://www.mermaidchart.com/ 或 https://mermaid.live
 - 实时查看效果，确认逻辑、布局是否正确
 - 如有小问题（文字太长、布局拥挤），在这里微调代码即可
-![[Pasted image 20251229130237.png]]
+![图片](assets/Pasted image 20251229130237.png)
 可以实时查看,实时编辑
 #### 步骤 3：复制代码到 draw.io（diagrams.net）进行精细调整
 - 打开 https://app.diagrams.net/
@@ -41,15 +41,15 @@
   - 推荐 **Image** 模式：生成 SVG 图片，双击即可重新编辑代码，修改后实时更新
   - 如果需要深度改样式，可选 **Diagram** 模式，转换为 draw.io 原生形状，手动拖拽、改色、加注释更自由
 - draw.io 的优势：支持手动调整位置、添加额外元素、统一风格，完全弥补 Mermaid 布局不够灵活的短板
-![[Pasted image 20251229130410.png]]
-![[Pasted image 20251229130516.png]]
+![图片](assets/Pasted image 20251229130410.png)
+![图片](assets/Pasted image 20251229130516.png)
 #### 步骤 4：直接从 draw.io 导出 SVG 插入 Word
 - 调整完成后：File → Export as → SVG
 - 在 Word 中“插入 → 图片 → 此设备”选择导出的 SVG 文件
 - **结果：文字完整、线条清晰、矢量无失真、放大不模糊**
 - 因为 draw.io 生成的 SVG 使用纯路径 + 文本渲染，不依赖 foreignObject，所以 Word 完美支持
-![[Pasted image 20251229130557.png]]
-![[Pasted image 20251229130610.png]]
+![图片](assets/Pasted image 20251229130557.png)
+![图片](assets/Pasted image 20251229130610.png)
 ### 这个流程的核心优势
 
 | 环节          | 工具                | 解决的问题                          | 优势                              |
