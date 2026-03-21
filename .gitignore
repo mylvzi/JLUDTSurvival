@@ -1,2 +1,7 @@
 *.json
 *.obsidian
+
+# 忽略项目配置和处理脚本
+CLAUDE.md
+cleanup_wechat_articles.py
+test_wechat_api.py
